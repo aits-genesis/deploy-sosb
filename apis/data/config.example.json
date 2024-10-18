@@ -1,0 +1,8 @@
+{
+    "apiUrl": "https://apidev.xalorith.com",
+    "version": "1.0.0",
+    "auth": {
+        "clientId": "your-client-id",
+        "clientSecret": "your-client-secret"
+    }
+}
