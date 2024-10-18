@@ -1,0 +1,8 @@
+{
+  "apiUrl": "https://www.sosbapi.sosb-bd.org",
+  "tenantId": "fa62c582-49c9-498a-bdea-abcba84edf20",
+  "auth": {
+    "clientId": "XALORITH_WA",
+    "clientSecret": "9A9154FA-A371-40FC-A727-DC1CCDC9658D"
+  }
+}
